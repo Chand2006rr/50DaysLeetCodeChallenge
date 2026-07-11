@@ -24,4 +24,8 @@ focus on the path
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
