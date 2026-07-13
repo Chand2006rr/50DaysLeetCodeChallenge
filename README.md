@@ -28,4 +28,8 @@ focus on the path
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
