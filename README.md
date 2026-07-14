@@ -15,6 +15,7 @@ focus on the path
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Trie
 |  |
@@ -32,4 +33,12 @@ focus on the path
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
