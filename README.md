@@ -41,4 +41,12 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
