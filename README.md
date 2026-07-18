@@ -8,6 +8,7 @@ focus on the path
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -49,11 +50,13 @@ focus on the path
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
