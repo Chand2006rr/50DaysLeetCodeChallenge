@@ -9,6 +9,7 @@ focus on the path
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -37,6 +38,7 @@ focus on the path
 | ------- |
 | [1291-sequential-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
+| [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
