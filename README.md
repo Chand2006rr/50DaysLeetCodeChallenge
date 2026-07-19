@@ -21,6 +21,7 @@ focus on the path
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3340-check-balanced-string](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
 | ------- |
