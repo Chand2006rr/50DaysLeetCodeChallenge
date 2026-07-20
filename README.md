@@ -54,6 +54,7 @@ focus on the path
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -88,6 +89,7 @@ focus on the path
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
 ## Tree
 |  |
