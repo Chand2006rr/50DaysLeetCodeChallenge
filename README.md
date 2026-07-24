@@ -12,6 +12,7 @@ focus on the path
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ focus on the path
 | [1291-sequential-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +61,7 @@ focus on the path
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -91,6 +94,7 @@ focus on the path
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Tree
 |  |
 | ------- |
