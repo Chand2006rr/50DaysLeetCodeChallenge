@@ -2,7 +2,7 @@ class Solution {
     public int maxProduct(int n) {
         String s = String.valueOf(n);
         ArrayList<Integer> ans = new ArrayList<>();
-        int max = 0;
+        int max = Integer.MIN_VALUE;
         int mul = 1;
         for(int i=0;i<s.length();i++){
             for(int j=i+1;j<s.length();j++){
