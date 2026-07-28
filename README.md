@@ -37,6 +37,7 @@ focus on the path
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Enumeration
 |  |
@@ -49,6 +50,7 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ focus on the path
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,4 +142,12 @@ focus on the path
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
