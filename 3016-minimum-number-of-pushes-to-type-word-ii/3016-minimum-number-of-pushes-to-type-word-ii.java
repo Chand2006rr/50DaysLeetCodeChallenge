@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int minimumPushes(String word) {
         HashMap<Character,Integer> map = new HashMap<>();
