@@ -50,6 +50,7 @@ focus on the path
 | [1291-sequential-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
@@ -72,6 +73,7 @@ focus on the path
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
