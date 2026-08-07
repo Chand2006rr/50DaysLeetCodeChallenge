@@ -1,12 +1,14 @@
 class Solution {
     public int smallestNumber(int n, int t) {
-        List<Integer> ans = new ArrayList<>();
+        // List<Integer> ans = new ArrayList<>();
         for(int i=n;i<=100;i++){
             if(digitProd(i) % t == 0){
-                ans.add(i);
+                // ans.add(i);
+                return i;
             }
         }
-        return ans.get(0);
+        // return ans.get(0);
+        return -1;
     }
 
     private int digitProd(int n){
