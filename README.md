@@ -6,6 +6,7 @@ focus on the path
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -56,6 +57,7 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
