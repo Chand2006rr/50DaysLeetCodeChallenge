@@ -70,12 +70,14 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +200,7 @@ focus on the path
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Euclidean Algorithm
 |  |
