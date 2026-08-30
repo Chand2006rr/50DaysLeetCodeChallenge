@@ -48,6 +48,7 @@ focus on the path
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Enumeration
@@ -63,6 +64,7 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
