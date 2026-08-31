@@ -13,6 +13,7 @@ focus on the path
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -219,4 +220,8 @@ focus on the path
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
