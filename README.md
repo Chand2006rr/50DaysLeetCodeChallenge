@@ -10,6 +10,7 @@ focus on the path
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+| [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -75,6 +76,7 @@ focus on the path
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -130,6 +132,7 @@ focus on the path
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -224,4 +227,8 @@ focus on the path
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
