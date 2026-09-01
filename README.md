@@ -78,6 +78,7 @@ focus on the path
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ focus on the path
 | [0009-palindrome-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -145,6 +147,7 @@ focus on the path
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -152,6 +155,7 @@ focus on the path
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -233,4 +237,8 @@ focus on the path
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
