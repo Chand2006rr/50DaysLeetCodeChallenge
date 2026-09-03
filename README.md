@@ -39,6 +39,7 @@ focus on the path
 | [0014-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -97,6 +98,7 @@ focus on the path
 | [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0367-valid-perfect-square](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -139,6 +141,7 @@ focus on the path
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
