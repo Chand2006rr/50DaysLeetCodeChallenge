@@ -104,6 +104,7 @@ focus on the path
 | [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1952-three-divisors](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
