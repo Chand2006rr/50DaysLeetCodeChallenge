@@ -6,9 +6,11 @@ class Solution {
                 sum += i;
             }
         }
-        if(sum != num){
-            return false;
-        }
-        return true;
+        // if(sum != num){
+        //     return false;
+        // }
+        // return true;
+
+        return (sum == num) ? true:false;
     }
 }
