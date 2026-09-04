@@ -25,6 +25,7 @@ focus on the path
 | [3731-find-missing-elements](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -247,6 +248,7 @@ focus on the path
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
