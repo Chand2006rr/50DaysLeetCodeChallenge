@@ -13,6 +13,7 @@ focus on the path
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -31,6 +32,7 @@ focus on the path
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -43,6 +45,7 @@ focus on the path
 | [0072-edit-distance](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
