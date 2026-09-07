@@ -6,6 +6,7 @@ focus on the path
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
@@ -31,6 +32,7 @@ focus on the path
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
