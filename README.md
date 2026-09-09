@@ -13,6 +13,7 @@ focus on the path
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -35,6 +36,7 @@ focus on the path
 | ------- |
 | [0001-two-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -279,4 +281,8 @@ focus on the path
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
