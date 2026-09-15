@@ -37,6 +37,7 @@ focus on the path
 | [0001-two-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -49,6 +50,7 @@ focus on the path
 | [0014-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -152,6 +154,7 @@ focus on the path
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
