@@ -297,4 +297,8 @@ focus on the path
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
