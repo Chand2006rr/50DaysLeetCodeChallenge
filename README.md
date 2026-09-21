@@ -62,6 +62,7 @@ focus on the path
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3340-check-balanced-string](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
@@ -169,6 +170,7 @@ focus on the path
 | ------- |
 | [0412-fizz-buzz](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3894-traffic-signal-color) |
 ## Binary Search
