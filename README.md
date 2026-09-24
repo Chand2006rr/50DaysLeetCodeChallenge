@@ -25,6 +25,7 @@ focus on the path
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -134,6 +135,7 @@ focus on the path
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
