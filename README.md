@@ -19,6 +19,7 @@ focus on the path
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -162,6 +163,7 @@ focus on the path
 | [0217-contains-duplicate](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -305,4 +307,12 @@ focus on the path
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
