@@ -61,6 +61,7 @@ focus on the path
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -297,6 +298,7 @@ focus on the path
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,4 +320,8 @@ focus on the path
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
