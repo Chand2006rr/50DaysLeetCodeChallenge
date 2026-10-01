@@ -53,6 +53,7 @@ focus on the path
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -297,6 +298,7 @@ focus on the path
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
@@ -323,5 +325,6 @@ focus on the path
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
