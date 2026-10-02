@@ -22,6 +22,7 @@ focus on the path
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2951-find-the-peaks](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2951-find-the-peaks) |
