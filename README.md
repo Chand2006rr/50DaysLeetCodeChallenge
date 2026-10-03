@@ -125,6 +125,7 @@ focus on the path
 | ------- |
 | [0009-palindrome-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -266,6 +267,7 @@ focus on the path
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
