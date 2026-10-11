@@ -5,7 +5,7 @@ class Solution {
 
         int i=0;
         int j=word.length-1;
-        while(i<=j){
+        while(i<j){
             String temp = word[i];
             word[i]=word[j];
             word[j]=temp;
