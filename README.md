@@ -12,6 +12,7 @@ focus on the path
 | [0015-3sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -212,6 +213,7 @@ focus on the path
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0112-path-sum) |
@@ -221,6 +223,7 @@ focus on the path
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0112-path-sum) |
@@ -256,6 +259,7 @@ focus on the path
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -319,6 +323,7 @@ focus on the path
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
