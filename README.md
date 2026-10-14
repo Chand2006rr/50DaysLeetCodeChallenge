@@ -89,6 +89,7 @@ focus on the path
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
@@ -131,6 +132,7 @@ focus on the path
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0050-powx-n) |
@@ -293,6 +295,7 @@ focus on the path
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
