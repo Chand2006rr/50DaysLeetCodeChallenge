@@ -1,0 +1,14 @@
+import java.util.Arrays;
+
+class Solution {
+    public List<Integer> targetIndices(int[] nums, int target) {
+        List<Integer> list = new ArrayList<>();
+        for(int i=0;i<nums.length;i++){
+            Arrays.sort(nums);
+            if(nums[i] == target){
+                list.add(i);
+            }
+        }
+        return list;
+    }
+}
