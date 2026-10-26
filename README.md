@@ -27,6 +27,7 @@ focus on the path
 | [0877-stone-game](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1051-height-checker) |
+| [1207-unique-number-of-occurrences](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ focus on the path
 | [0219-contains-duplicate-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1207-unique-number-of-occurrences](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
