@@ -11,6 +11,7 @@ focus on the path
 | [0014-longest-common-prefix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -119,6 +120,7 @@ focus on the path
 | [0015-3sum](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Chand2006rr/50DaysLeetCodeChallenge/tree/master/0148-sort-list) |
